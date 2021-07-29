@@ -1,4 +1,4 @@
-package JavaAsgnmt3PendingPrograms;
+package Assignment3;
 
 class Arithmeticexception{  
 	   void method1() throws ArithmeticException{  
